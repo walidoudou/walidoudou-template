@@ -5,7 +5,7 @@
 Avant de commencer, assure-toi d'avoir installé :
 - [Node.js](https://nodejs.org/) (version 16+ recommandée)
 - [MongoDB](https://www.mongodb.com/) (si utilisé)
-- Un bot Discord avec un token [via le Portail des développeurs Discord](https://discord.com/developers/applications)
+- Un bot Discord avec un token et les 3 intents activés [via le Portail des développeurs Discord](https://discord.com/developers/applications)
 
 ## 📥 Installation
 

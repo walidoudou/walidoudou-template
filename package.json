@@ -1,0 +1,31 @@
+{
+  "name": "walidoudou-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/walidoudou/walidoudou-template.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/walidoudou/walidoudou-template/issues"
+  },
+  "homepage": "https://github.com/walidoudou/walidoudou-template#readme",
+  "dependencies": {
+    "boxen": "^8.0.1",
+    "chalk": "^5.4.1",
+    "chokidar": "^4.0.3",
+    "colors": "^1.4.0",
+    "discord.js": "^14.18.0",
+    "dotenv": "^16.4.7",
+    "figlet": "^1.8.0",
+    "gradient-string": "^3.0.0",
+    "mongoose": "^8.10.0"
+  }
+}
